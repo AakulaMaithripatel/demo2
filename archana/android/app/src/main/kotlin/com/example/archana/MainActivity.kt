@@ -1,0 +1,5 @@
+package com.example.archana
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
